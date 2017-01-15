@@ -28,7 +28,7 @@
   "devDependencies": {
     "uglify-js": "latest",
     "es6-promise": "latest",
-    "grunt": "0.3.x",
+    "grunt": "~0.2.1",
     "grunt-cli": "latest",
     "benchmark": "latest",
     "grunt-contrib-clean": "latest",
