@@ -55,7 +55,7 @@
     "rollup": "latest",
     "spacejam": "latest",
     "typescript": "^1.8.10",
-    "coveralls": "^2.11.2",
+    "coveralls": "latest",
     "nyc": "^2.1.4"
   }
 }
