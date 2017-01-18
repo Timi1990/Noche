@@ -51,7 +51,7 @@
     "karma-qunit": "latest",
     "karma-sauce-launcher": "latest",
     "qunit": "^0.7.5",
-    "qunit-cli": "^0.1.4",
+    "qunit-cli": "latest",
     "rollup": "latest",
     "spacejam": "latest",
     "typescript": "^1.8.10",
