@@ -54,7 +54,7 @@
     "qunit-cli": "latest",
     "rollup": "latest",
     "spacejam": "latest",
-    "typescript": "^1.8.10",
+    "typescript": "latest",
     "coveralls": "latest",
     "nyc": "^2.1.4"
   }
