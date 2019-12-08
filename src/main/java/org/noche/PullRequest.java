@@ -7,7 +7,5 @@ import com.google.gson.annotations.SerializedName;
  */
 public class PullRequest {
 
-    @SerializedName("user")
-    private User user;
 
 }
