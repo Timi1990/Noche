@@ -1,15 +1,6 @@
 package org.noche;
 
-import com.eclipsesource.v8.NodeJS;
-import com.google.gson.Gson;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.DefaultHttpClient;
-import sun.net.www.http.HttpClient;
-
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.URL;
 
 /**
  * Created by artiom.petrov
