@@ -24,6 +24,5 @@ jobs:
       run: mvn -B package --file pom.xml
     - name: Download WhiteSource
       run: curl -LJO https://github.com/whitesource/unified-agent-distribution/raw/master/standAlone/wss_agent.sh
-    - name: Scan with WhiteSource
-      run: java -jar wss-unified-agent.jar -apiKey 47b11fd7-06e5-4ce2-ad2d-00c209148d9b -projectName GITHUB -c wss-unified-agent.config
+    
   
